@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@vercel/node": "^1.8.1"
+    "@vercel/node": "^1.8.1",
+    "typescript": "^4.0.2"
   }
 }
