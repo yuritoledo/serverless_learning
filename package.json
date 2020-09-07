@@ -1,0 +1,9 @@
+{
+  "name": "serverless_learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^1.8.1"
+  }
+}

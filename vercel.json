@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/books",
+      "dest": "/api/getBooks.ts"
+    }
+  ]
+}
