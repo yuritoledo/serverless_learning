@@ -5,7 +5,7 @@
       "methods": [
         "GET"
       ],
-      "dest": "src/getBooks.ts"
+      "dest": "api/getBooks.ts"
     }
   ]
 }
