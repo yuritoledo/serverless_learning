@@ -11,6 +11,9 @@
     "@prisma/client": "^2.6.2"
   },
   "scripts": {
-    "prisma": "prisma migrate save --experimental && prisma migrate up --experimental"
+    "prisma:migrate": "prisma migrate save --experimental && prisma migrate up --experimental",
+    "prisma:generate": "prisma generate",
+    "prisma:introspect": "prisma introspect",
+    "postinstall": "prisma generate"
   }
 }
