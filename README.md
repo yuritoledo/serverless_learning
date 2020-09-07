@@ -3,4 +3,4 @@
 - Vercel serverless functions
 - Prisma
 - Heroku postgres free tier
-- Happy
+- Happiness
