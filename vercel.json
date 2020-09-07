@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/api/books",
-      "dest": "src/api/getBooks.ts"
+      "dest": "src/getBooks.ts"
     }
   ]
 }
